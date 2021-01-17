@@ -1,0 +1,13 @@
+BLAST alignment sample sequences
+
+----
+
+shgglpgass ekgrktyptv kicnyegpak ievdlvthsd pprahahslv gkqcselgic
+
+shgglpgass kicnyegpak ekgrktyptv ievdlvthsd pprahahslv gkqcselgic
+
+----
+
+gagtgccgga gcgagtccca gaagagaggc gaggctaagc ccagagcgct gggttgcttc
+
+gagtgccgga gcgccctcca gaagagaggc gaggctaagc ccagagcgct gggttgcttc
